@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Elusion VPN</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connected">Connected</string>
+</resources>
